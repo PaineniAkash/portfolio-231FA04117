@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Paineni Akash | Resume</title>
+  <link rel="stylesheet" href="resume.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Paineni Akash</h1>
+      <p class="subtitle">
+        Enthusiastic B.Tech third-year student specializing in Computer Science Engineering,
+        with hands-on project experience and a passion for solving real-world challenges
+      </p>
+      <div class="contact">
+        <span>📧 Paineniakash9542@gmail.com</span> |
+        <span>📞 9030905360</span> |
+        <span>🔗 LinkedIn: Paineni Akash</span>
+      </div>
+    </header>
+
+    <section>
+      <h2>EDUCATION</h2>
+      <div class="entry">
+        <div class="title-line">
+          <strong>Bachelor of Technology – Computer Science Engineering</strong>
+          <span class="date">Expected Graduation: June 2027</span>
+        </div>
+        <p>Vignan University, Guntur<br/>CGPA: 8.0</p>
+      </div>
+
+      <div class="entry">
+        <div class="title-line">
+          <strong>Intermediate</strong>
+          <span class="date">2021 – 2023</span>
+        </div>
+        <p>Nagabhairava Junior College, SSC – GPA: 9.2</p>
+      </div>
+
+      <div class="entry">
+        <div class="title-line">
+          <strong>High School</strong>
+          <span class="date">2020 – 2021</span>
+        </div>
+        <p>Z.P. High School Konijedu, SSC – GPA: 10.0</p>
+      </div>
+    </section>
+
+   
+<section>
+  <h2>PROJECTS</h2>
+
+  <div class="entry">
+    <div class="title-line">
+      <strong>Music Mantra</strong>
+      <span class="date">Dec 2024 – Jun 2025</span>
+    </div>
+    <ul>
+      <li>🎵 Music Mantra is a music streaming platform similar to Spotify for real-time audio playback.</li>
+      <li>Allows users to stream, discover, and vibe with music anytime, anywhere.</li>
+      <li>Features include playlist creation, track search, and continuous playback.</li>
+      
+    </ul>
+  </div>
+
+  <div class="entry">
+    <div class="title-line">
+      <strong>Online Courier Tracking System</strong>
+      <span class="date">june 2025</span>
+    </div>
+    <ul>
+      <li>📦 A web application to monitor shipments with real-time tracking and delivery estimates.</li>
+      <li>Users can enter a tracking ID to get instant status updates and stay informed on delivery progress.</li>
+      <li>Designed a user-friendly interface using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.</li>
+      
+      <li>Ideal for courier services requiring accurate package tracking and delivery information.</li>
+    </ul>
+  </div>
+</section>
+
+
+    
+    <section>
+      <h2>SKILLS</h2>
+      <ul class="skills-list">
+        <li><strong>Programming Languages:</strong> C, Python, Java</li>
+        <li><strong>Frontend Web Technologies:</strong> HTML, CSS, JavaScript</li>
+        <li><strong>Tools & Platforms:</strong> Git, VS Code</li>
+        <li><strong>Databases:</strong> MySQL</li>
+        <li><strong>Others:</strong> MS Office</li>
+      </ul>
+    </section>
+
+    
+    <section>
+      <h2>CERTIFICATIONS</h2>
+      <ul>
+        <li><strong>Cambridge B2 Level Certificate</strong></li>
+        <li><strong>C Programming</strong> – NPTEL</li>
+        <li><strong>GitHub Certificate</strong></li>
+        <li><strong>Management Science</strong> – NPTEL</li>
+      </ul>
+    </section>
+
+    
+    <section>
+      <h2>ACHIEVEMENTS / EXTRA-CURRICULARS</h2>
+      <ul>
+        <li>Winner of coding hackathon at Vignan University</li>
+      </ul>
+    </section>
+
+    
+    <section>
+  <h2>HOBBIES</h2>
+  <ul>
+    <li>Reading</li>
+    <li>Coding</li>
+    <li>Playing Video Games</li>
+    <li>Driving</li>
+    <li>Cooking</li>
+  </ul>
+</section>
+
+
+    
+    <section>
+      <h2>LANGUAGES KNOWN</h2>
+      <ul>
+        <li>English</li>
+        <li>Telugu</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
