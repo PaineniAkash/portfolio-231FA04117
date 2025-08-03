@@ -1,0 +1,86 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 850px;
+  margin: auto;
+  padding: 40px 20px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 28px;
+  margin: 0;
+  color: #0d47a1;
+  text-align: center;  /* Center the name */
+}
+
+.subtitle {
+  font-size: 15px;
+  color: #555;
+  margin-top: 10px;
+  text-align: center;  /* Center subtitle */
+}
+
+.contact {
+  font-size: 14px;
+  color: #333;
+  margin-top: 8px;
+}
+
+h2 {
+  color: #0288d1;
+  font-size: 18px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+/* Add your new CSS here, before languages known styles */
+
+.entry {
+  margin-top: 10px;
+}
+
+.title-line {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  color: #000;
+}
+
+ul {
+  margin: 8px 0 15px 20px;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 5px;
+  line-height: 1.6;
+}
+
+.skills-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 10px;
+}
+
+@media (max-width: 600px) {
+  .title-line {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
